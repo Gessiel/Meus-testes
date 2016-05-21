@@ -19,6 +19,6 @@ Valores = Bimestre1 + Bimestre2 + Bimestre3 + Bimestre4
 
 print("")
 
-print(" Você ficou com: " + Valores + " Pontos... ")
+print(" Você ficou com: ", + Valores, + " Pontos... ")
 
 pause
